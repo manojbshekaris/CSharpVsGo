@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\FILES\CUSTOM\Frameworktests\CSharp\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-03-21T16:25:29.3411551Z;False|2021-03-21T21:52:40.9035617+05:30;False|2021-03-21T21:51:40.5418429+05:30;False|2021-03-21T21:51:17.5557863+05:30;True|2021-03-21T21:28:50.6480571+05:30;False|2021-03-21T21:24:24.5849472+05:30;False|2021-03-21T21:23:58.1148884+05:30;True|2021-03-21T21:08:00.2974897+05:30;</History>
+  </PropertyGroup>
+</Project>
